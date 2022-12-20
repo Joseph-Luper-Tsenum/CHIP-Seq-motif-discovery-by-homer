@@ -1,1 +1,1 @@
-# Motif-discovery-Using-Homer
+# Motif Discovery Using Homer
