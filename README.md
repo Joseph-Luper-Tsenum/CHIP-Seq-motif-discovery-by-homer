@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Increasing quantities of long noncoding RNAs (lncRNAs) are now found in mammalian transcriptome, and scientist have reported that a good number of them are expressed specifically in the brain. For example, Shi-Yan et al. 2013 reported some lncRNAs expressed in the brain including rhabdomyosarcoma 2-associated transcript (RMST). RMST is regulated by REST (a transcriptional repressor). RMST's role in neurogenesis can be traced to its over expression during neuronal differentiation. To exert its functions, RMST physically interacts with a transcription factor (SOX2). SOX2 is known to modulate the fate of neurogenesis. A huge number of downregulated genes known to be involved in neurogenesis are coregulated by RMST and SOX2. Shi-Yan et al. 2013 reported that RMST is needed for SOX2 to bind to the promoter regions of neurogenic transcription factors. 
+Increasing quantities of long noncoding RNAs (lncRNAs) are now found in mammalian transcriptome, and scientist have reported that a good number of them are expressed specifically in the brain. For example, Shi-Yan et al. 2013 reported that some lncRNAs are expressed in the brain including rhabdomyosarcoma 2-associated transcript (RMST). RMST is regulated by REST (a transcriptional repressor). RMST's role in neurogenesis can be traced to its over expression during neuronal differentiation. To exert its functions, RMST physically interacts with a transcription factor (SOX2). SOX2 is known to modulate the fate of neurogenesis. A huge number of downregulated genes known to be involved in neurogenesis are coregulated by RMST and SOX2. Shi-Yan et al. 2013 reported that RMST is needed for SOX2 to bind to the promoter regions of neurogenic transcription factors. 
 
 Here,chromosome 18 of the human genome was used for CHIP-Seq motif discovery by homer based on the paper by Shi-Yan et al. 2013 (https://www.cell.com/molecular-cell/fulltext/S1097-2765(13)00543-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1097276513005431%3Fshowall%3Dtrue)
 
@@ -42,7 +42,11 @@ The same process was repeated for Chromosome 19, but there was no motif was disc
 
 The homer results for chromosome 18 is uploaded here as HomerResults.html  while the homer results for chromosome 19 is uploaded as ChIP-Seq_for Chromosome 19_Motifs.zip
 
+To learn more about homer, http://homer.ucsd.edu/homer/motif/ will be helpful
 
 ### References
 
+1. Ng SY, Bogu GK, Soh BS, Stanton LW. The long noncoding RNA RMST interacts with SOX2 to regulate neurogenesis. Mol Cell. 2013 Aug 8;51(3):349-59. doi: 10.1016/j.molcel.2013.07.017. PMID: 23932716.
+
+2. 
 
