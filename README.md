@@ -41,7 +41,7 @@ From our RMST analysis, there was no similar motif as our known SOX2 motif, even
 The same process was repeated for Chromosome 19, but there was no motif was discovered as being similar to our known SOX2 motif. 
 
 
-##### The homer results for chromosome 18 is uploaded here as HomerResults.html  while the homer results for chromosome 19 is uploaded as ChIP-Seq_for Chromosome 19_Motifs.zip
+##### The homer results for chromosome 18 is uploaded here as HomerResults.html file while the homer results for chromosome 19 is uploaded as ChIP-Seq_for Chromosome 19_Motifs.zip file. You can download it and view the results.
 
 
 ##### To learn more about homer, http://homer.ucsd.edu/homer/motif/ and http://homer.ucsd.edu/homer/ will be helpful
