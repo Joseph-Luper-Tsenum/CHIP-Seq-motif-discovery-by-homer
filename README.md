@@ -35,7 +35,7 @@ From our RMST analysis, there was no similar motif as our known SOX2 motif, even
 
 • There was no similar SOX2 motif found for both SOX2 and RMST analysis.
 
-• Randomly, chromosome (chr18) of the human genome was used, and even though the required result did not turn out, there are motifs that are very close to being similar to our known SOX2 motif, meaning that if we consider only one chromosome, it can still produce a similar or nearly similar results. 
+• Randomly, chromosome (chr18) of the human genome was used, and even though the required result did not turn out, there are motifs that are very close to being similar to our known SOX2 motif, meaning that if we consider only one chromosome, it can still produce a similar or nearly similar results. Despite the absence of identified motifs, it is necessary to search for motifs at the whole genome level to avoid false negative results. 
 
 
 The same process was repeated for Chromosome 19, but there was no motif was discovered as being similar to our known SOX2 motif. 
