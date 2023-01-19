@@ -1,5 +1,15 @@
 # CHIP-Seq motif discovery by homer for chromosome 18 of the human genome 
 
+### By Joseph Luper Tsenum
+
+Email: tsenumjosephluper@phystech.edu
+
+Phystech School of Biological and Medical Physics (FBMF)
+
+Moscow Institute of Physics and Technology (National Research University)
+
+Russian Federation
+
 ### Introduction
 
 Increasing quantities of long noncoding RNAs (lncRNAs) are now found in mammalian transcriptome, and scientist have reported that a good number of them are expressed specifically in the brain. For example, Shi-Yan et al. 2013 reported that some lncRNAs are expressed in the brain including rhabdomyosarcoma 2-associated transcript (RMST). RMST is regulated by REST (a transcription repressor). RMST's role in neurogenesis can be traced to its over expression during neuronal differentiation. To exert its functions, RMST physically interacts with a transcription factor (SOX2). SOX2 is known to modulate the fate of neurogenesis. A huge number of downregulated genes known to be involved in neurogenesis are coregulated by RMST and SOX2. Shi-Yan et al. 2013 reported that RMST is needed for SOX2 to bind to the promoter regions of neurogenic transcription factors. 
